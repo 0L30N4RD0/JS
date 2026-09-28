@@ -1,1 +1,1 @@
-# JS
+# Calculadora de soma com JavaScript.
